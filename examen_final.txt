@@ -1,0 +1,23 @@
+Problema 01:
+	Crear una pagina web haciendo uso de Flask para crear un producto y tambien mostrar los productos creados, 
+	se tiene ya construida la página web de productos solo agregar lo siguiente:
+
+	- Agregar la función de ruta con las peticiones GET y POST para cada uno de los casos
+	- Agregar una clase Producto mediante el cual tambien debe de tener los metodos necesarios para mostrar
+		y crear el producto.
+	- Almacenar los registros de la página web haciendo uso de Pandas en un archivo .csv
+	- Hacer todo lo practicado en clase
+
+Enviar el trabajo al correo: itolentinos@continental.edu.pe
+Asunto: [Python02-032023] - Apellidos y Nombres
+Mensaje: ....
+Archivos:
+	app.py
+	producto.py
+	producto.html
+	producto.csv
+ZIP:
+	apellidos_nombres.zip
+
+
+Fecha de entrega: 18-03-2023 00:59 Hrs.
